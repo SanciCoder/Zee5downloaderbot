@@ -12,7 +12,7 @@ If you find any bugs, report at [alphabots](https://t.me/alpha_bot_support)
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/utkarsh212646/Zee5downloaderbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/SanciCoder/Zee5downloaderbot)
 
 #### Run in your VPS
 
